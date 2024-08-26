@@ -1,0 +1,5 @@
+name: namechecker
+version: '1.0-SNAPSHOT'
+main: org.Little_100.namechecker.Namechecker
+api-version: '1.21'
+authors: [ Little_100 ]
